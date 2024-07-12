@@ -1,0 +1,41 @@
+.portfolio{
+  text-align: center;
+  height:50px;
+  width: 100%;
+  background: transparent;
+  font-size: 50px;
+}
+
+body{
+  background: #326f53;
+  color: #fff;
+  margin-left: 20px;
+}
+.red{
+  color: red;
+}
+.image{
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+.dis{
+  display: flex;
+}
+img{
+margin-left: 500px;
+}
+.display{
+  margin-left: 50px;
+}
+.hi{
+  margin-left: 200px;
+}
+.whatsapp{
+  height: 50px;
+  width: 50px;
+}
+.center{
+  text-align: center;
+  padding: 30px;
+}
